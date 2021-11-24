@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://ParthChoksi:admin123@myapp.mtcmx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+
+}
